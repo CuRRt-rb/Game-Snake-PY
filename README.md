@@ -1,3 +1,3 @@
-# Game-Snake-PY
+# SNAKE
 
-Run game from main.py
+To run the game please run it from main.py
